@@ -26,4 +26,4 @@ server:
   servlet:
     session:
       cookie:
-        http-only: false
+        http-only: true
